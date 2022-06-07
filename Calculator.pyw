@@ -1,5 +1,5 @@
 print("***INFORMATION*** \n This calculator @abdulkadirtoklu4's. In this calculator, you can also perform mode import and exponential operations other than normal calculators.\n")
-print("***BİLGİLENDİRME*** \n Bu hesap makinesinde normal hesap makineleri dışında mod alma ve üs alma işlemlerini de yapabilirsiniz.\n")
+print("***BİLGİLENDİRME*** \n Bu hesap makinesi @abdulkadirtkoklu4 tarafından yazılmıştır.Bu hesap makinesinde normal hesap makineleri dışında mod alma ve üs alma işlemlerini de yapabilirsiniz.\n")
 
 sayi1 = int(input("1st issue:"))
 sayi2 = int(input("2nd issue"))
